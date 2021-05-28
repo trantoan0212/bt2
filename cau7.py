@@ -1,4 +1,4 @@
-n=int(input("nhap n "))
+n=int(input("nhập n: "))
 d=dict()
 for i in range(1,n+1):
     d[i]=i*i
